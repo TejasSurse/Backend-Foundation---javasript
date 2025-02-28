@@ -1,0 +1,11 @@
+server is always listening and then server responses 
+
+-- in production use dot env
+for deployment
+-- heroku
+   railway
+   cnode
+   render
+   cyclic.sh
+   digital ocean 
+

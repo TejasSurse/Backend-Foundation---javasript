@@ -1,0 +1,55 @@
+Backend Development 
+
+-- Sever - it is just a software can be mobile or big computer 
+
+2 major components
+
+- a programming language 
+java js php golang c++ - on a frameowrk 
+
+
+- a database 
+mysql, mongo , postgramse, ssqlite - ORM ODM
+orm -  framework and library     
+odm -
+browser -- api -- backend --- db --- another client 
+
+
+mobile -- api -- backned --- db -- another client 
+
+
+a javascript based backend 
+
+data    - a js runtime package.json
+
+file - nodejs / deno / bun - other choices of runtime 
+of js as a backend 
+
+tird party (api)
+
+scr 
+files ===
+    index - db connects 
+
+    app - config cokkie , urlencoded 
+
+    constant - enums db-name
+
+structure
+folders 
+    - db
+    - models  - sample of data 
+    - conrollers - functionality 
+    - routes - / singup / login 
+    - middlewares 
+    - utils - mail sending file upload 
+    - More (depends );
+
+
+
+
+
+    
+
+
+

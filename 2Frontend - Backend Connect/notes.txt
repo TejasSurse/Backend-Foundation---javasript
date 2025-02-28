@@ -1,0 +1,57 @@
+Understanding Backend and front end best practices 
+
+-- professional way to read api - 
+    json formater - go in tree structure 
+
+write - backend in full stack application 
+
+there are toolchain - (writing way of frontend i.e - some peoples use vite , some use creat-react-app)
+
+toochain - bundlers 
+
+- now we are using bundler - vite ( server html css js)
+to browser 
+
+axios is comes with some over the top or better features than fetch 
+this library specially writeen for web request with all states 
+
+CORS - provides safety to applications 
+allow and disallow 
+
+gharat - family allow - other not allow
+
+CORS - cross origin 
+
+
+cross origin means - bend - 3000 fend 5000 they are cross origin 
+
+url diff - cross origin 
+
+
+ip whitelist or domain whitelist 
+
+-- sol 1 backend - install cors and allow 
+
+read cors docs 
+
+Proxy - search proxy 
+
+-- package.json 
+    "proxy" : "url" for create react app
+    there are different ways for proxy 
+
+vite -
+
+    vite.config.js
+        - 
+
+
+
+very bad practice 
+-- pushing backend folder and frontend folder on same deployment 
+
+-- can test 
+-- npm run build 
+
+
+hence always segregate fend and backend 
