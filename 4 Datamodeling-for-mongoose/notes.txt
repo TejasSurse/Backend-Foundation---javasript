@@ -1,0 +1,32 @@
+Mongoose - main question is what data is to store 
+not how to and where to store 
+
+use moon modeler -- in industry 
+
+we are going to use -
+--- > 
+alyws look what is going to store in db
+
+desiging 
+
+-- 1 register page design 
+    what fields are going to store 
+     
+
+online codding softwares 
+
+stackbliz
+github code spaces
+
+
+now in models 
+
+we are not conserning about how to store data it is in controllers 
+
+we are going to learn how data is to be stored 
+
+
+// models is only for db modeling not about connection and storing 
+
+
+// how to relate documents with each other 
