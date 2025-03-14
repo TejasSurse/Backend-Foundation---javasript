@@ -1,0 +1,8 @@
+=== razorpay payment getway ===
+
+1. How to integrate razorpay payment gateway in nodejs
+
+
+- how to create account 
+- how to use keys ?
+= how to use razorpay 

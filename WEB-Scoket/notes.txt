@@ -1,0 +1,59 @@
+pc ------ server
+communtion previous 
+client - > req server get req and 
+send res -> res
+
+it. 
+req -> res close 
+
+then agian 
+req -> res close
+
+this is problem is once req it gives res and 
+it always closes connection 
+
+
+communication is only single direction
+
+-----------------------------------
+
+Problem is 
+if we are server one is client and another is client and we want to makke chatting application real time 
+
+if user want to send message to other user
+he send to server then then another user recieves message from server but not good i.e everyon has to check is there any message 
+
+========
+
+user 1 ---- server ---- user 2
+       ---- server ---- user 3
+
+
+this thing is knonw as polling but it is over kill 
+
+i.e 1000s of client if pooling hence server load increases 
+
+ in socket 
+
+
+ user 1 ----- server ( make https req send and make connection )
+
+ if server accept connection then
+
+ i.e http req sended by user converted to socket by server
+
+ so it makes bidirectional communication  
+
+ once connection is made then it is not closed unless you want 
+
+
+
+ client 1 ----- server ------ user 2
+
+ it is bidirectional communication beacuse connectioon is not closed
+
+ reaad -- MDN - upgrade 
+
+ socket io 
+
+ 
